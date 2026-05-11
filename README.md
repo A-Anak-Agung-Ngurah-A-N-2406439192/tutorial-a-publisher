@@ -16,3 +16,5 @@ Pada URL `amqp://guest:guest@localhost:5672`:
 - `5672` adalah port default yang digunakan RabbitMQ untuk koneksi AMQP.
 
 Karena publisher dan subscriber menggunakan URL broker yang sama serta nama event/queue yang sama, maka subscriber dapat menerima pesan yang dikirim oleh publisher.
+
+![img1.png](img1.png)
